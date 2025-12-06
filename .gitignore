@@ -1,0 +1,18 @@
+# Executables
+matrix_calc
+*.exe
+*.out
+a.out
+
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.a
+*.lib
+
+# Temporary files
+*.tmp
+*~
+.DS_Store
