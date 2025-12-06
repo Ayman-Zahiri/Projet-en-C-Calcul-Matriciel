@@ -1,7 +1,7 @@
 # 🧮 Projet en C - Calcul Matriciel
 
 ![C](https://img.shields.io/badge/Language-C-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![License](https://img.shields.io/badge/License-Académique-green.svg)
 
 Application développée en langage C pour la gestion et la manipulation de **matrices creuses** (sparse matrices), à travers une interface en ligne de commande interactive. Le programme offre des fonctionnalités optimisées pour le traitement de matrices de grande taille avec peu d'éléments non nuls.
 
